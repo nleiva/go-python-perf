@@ -20,7 +20,7 @@ Done
 
 real	0m47.680s
 user	0m47.615s
-sys	    0m0.006s
+sys	0m0.006s
 ```
 
 ### PyPy
@@ -31,7 +31,7 @@ Done
 
 real	0m0.462s
 user	0m0.449s
-sys 	0m0.012s
+sys 0m0.012s
 ```
 
 ### Go
@@ -42,7 +42,7 @@ Done
 
 real	0m0.281s
 user	0m0.288s
-sys	    0m0.065s
+sys 0m0.065s
 ```
 
 ### Compiled Go
@@ -53,5 +53,5 @@ Done
 
 real	0m0.216s
 user	0m0.213s
-sys	    0m0.003s
+sys 0m0.003s
 ```
